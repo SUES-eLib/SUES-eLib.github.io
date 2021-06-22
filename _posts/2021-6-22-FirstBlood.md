@@ -1,9 +1,9 @@
 ---
 layout: post
-title: template page
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+title: 第一篇文章
+categories: [TEST]
+description: 第一篇文章
+keywords: 关键词测试
 ---
 
-This post is the template for each post
+本文是第一篇文章。
