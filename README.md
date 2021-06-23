@@ -14,6 +14,8 @@
 
 **本仓库内容和最终站点构建有直接关联，非开发人员请勿对本Repo提交PR。**
 
+建议：图片可以采用Base64方式。
+
 ## 致谢
 
 本博客外观基于 [DONGChuan](https://dongchuan.github.io) 修改，感谢！
