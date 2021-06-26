@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://sues-elib.github.io
+url: /
 date_format: "ordinal"
 title: SUES-eLib
 subtitle: "上海工程技术大学 课程资料共享"
