@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2DTrans", "2DTrans.vcxproj", "{EF855793-B112-41CF-9187-73A3BE81AA5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF855793-B112-41CF-9187-73A3BE81AA5F}.Debug|x64.ActiveCfg = Debug|x64
+		{EF855793-B112-41CF-9187-73A3BE81AA5F}.Debug|x64.Build.0 = Debug|x64
+		{EF855793-B112-41CF-9187-73A3BE81AA5F}.Debug|x86.ActiveCfg = Debug|Win32
+		{EF855793-B112-41CF-9187-73A3BE81AA5F}.Debug|x86.Build.0 = Debug|Win32
+		{EF855793-B112-41CF-9187-73A3BE81AA5F}.Release|x64.ActiveCfg = Release|x64
+		{EF855793-B112-41CF-9187-73A3BE81AA5F}.Release|x64.Build.0 = Release|x64
+		{EF855793-B112-41CF-9187-73A3BE81AA5F}.Release|x86.ActiveCfg = Release|Win32
+		{EF855793-B112-41CF-9187-73A3BE81AA5F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DCDDC40-9BA6-4C9A-86DA-E1A9309F6D14}
+	EndGlobalSection
+EndGlobal

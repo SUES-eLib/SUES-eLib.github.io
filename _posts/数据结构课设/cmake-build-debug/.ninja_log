@@ -1,0 +1,17 @@
+# ninja log v5
+4	6731	7092917982933815	CMakeFiles/DataStruProject.dir/main.cpp.obj	39eefe33882541f7
+152	333	7088922386943879	DataStruProject.exe	c5e11c0cee18df63
+3	256	7093170504009782	build.ninja	3245b30bb3b49481
+41	6736	7092917983004081	CMakeFiles/DataStruProject.dir/ex5-SortComp.cpp.obj	f41d5e9070f852cb
+13	6730	7092917982933815	CMakeFiles/DataStruProject.dir/ex3-EightQueen.cpp.obj	be00e3ab2e91bbf0
+51	6734	7092917982953763	CMakeFiles/DataStruProject.dir/ex4-Flight.cpp.obj	f6541d23c5ab3ddb
+63	6718	7092917917745377	CMakeFiles/DataStruProject.dir/ex7-HashContacts.cpp.obj	a08d625a16a40a1
+21	6720	7092917919873828	CMakeFiles/DataStruProject.dir/ex6-Map.cpp.obj	de738f5d07eac7f9
+32	6725	7092917918090312	CMakeFiles/DataStruProject.dir/ex8-Huffman.cpp.obj	b431403bebd1a0a3
+23	243	7095004838119867	CMakeFiles/DataStruProject.dir/ex3-EightQueen.cpp.obj	be00e3ab2e91bbf0
+4	255	7095004838269487	CMakeFiles/DataStruProject.dir/main.cpp.obj	39eefe33882541f7
+47	512	7095004840814580	CMakeFiles/DataStruProject.dir/ex6-Map.cpp.obj	de738f5d07eac7f9
+34	584	7095004841552609	CMakeFiles/DataStruProject.dir/ex7-HashContacts.cpp.obj	a08d625a16a40a1
+60	586	7095004841562590	CMakeFiles/DataStruProject.dir/ex8-Huffman.cpp.obj	b431403bebd1a0a3
+13	594	7095004841672320	CMakeFiles/DataStruProject.dir/ex4-Flight.cpp.obj	f6541d23c5ab3ddb
+71	675	7095004842467550	CMakeFiles/DataStruProject.dir/ex5-SortComp.cpp.obj	f41d5e9070f852cb
